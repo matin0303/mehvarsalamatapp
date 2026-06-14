@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mehvarsalamatapp/static/css/main.06baf927.css",
-    "main.js": "/mehvarsalamatapp/static/js/main.d8a6ce77.js",
+    "main.js": "/mehvarsalamatapp/static/js/main.28d8b992.js",
     "static/media/bg.jpg": "/mehvarsalamatapp/static/media/bg.e20bfaf1419cd1c8927b.jpg",
     "static/media/bot.png": "/mehvarsalamatapp/static/media/bot.4ce771b94354c4510f0c.png",
     "static/media/img2.jpg": "/mehvarsalamatapp/static/media/img2.6306a3865aaae7e5c216.jpg",
@@ -21,10 +21,10 @@
     "static/media/Mj_Sazeh Bold_0.ttf": "/mehvarsalamatapp/static/media/Mj_Sazeh Bold_0.26b11a7e019c8010abd4.ttf",
     "index.html": "/mehvarsalamatapp/index.html",
     "main.06baf927.css.map": "/mehvarsalamatapp/static/css/main.06baf927.css.map",
-    "main.d8a6ce77.js.map": "/mehvarsalamatapp/static/js/main.d8a6ce77.js.map"
+    "main.28d8b992.js.map": "/mehvarsalamatapp/static/js/main.28d8b992.js.map"
   },
   "entrypoints": [
     "static/css/main.06baf927.css",
-    "static/js/main.d8a6ce77.js"
+    "static/js/main.28d8b992.js"
   ]
 }

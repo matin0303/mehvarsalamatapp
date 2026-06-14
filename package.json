@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@kingironman2011/vite-pages": "^1.0.2",
     "gh-pages": "^6.3.0"
   }
 }

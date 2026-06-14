@@ -111,7 +111,7 @@ export default function Footer(){
             
                     <div>
                         <ul>
-                            <Link to='/'><li> صفحه خانه</li></Link>
+                            <Link to='/mehvarsalamatapp'><li> صفحه خانه</li></Link>
                             <Link to='/consultants'><li>صفحه مشاورین</li></Link>
                             <Link to='/newsandarticles'><li>صفحه اخبار و مقالات</li></Link>
                             <Link to='/bmi'><li>BMI محاسبه</li></Link>

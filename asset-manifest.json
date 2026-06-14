@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mehvarsalamatapp/static/css/main.06baf927.css",
+    "main.js": "/mehvarsalamatapp/static/js/main.d8a6ce77.js",
+    "static/media/bg.jpg": "/mehvarsalamatapp/static/media/bg.e20bfaf1419cd1c8927b.jpg",
+    "static/media/bot.png": "/mehvarsalamatapp/static/media/bot.4ce771b94354c4510f0c.png",
+    "static/media/img2.jpg": "/mehvarsalamatapp/static/media/img2.6306a3865aaae7e5c216.jpg",
+    "static/media/img3.png": "/mehvarsalamatapp/static/media/img3.8a11e08370fc466d1898.png",
+    "static/media/img5.png": "/mehvarsalamatapp/static/media/img5.29138b43eb9fa6b4f14a.png",
+    "static/media/img4.png": "/mehvarsalamatapp/static/media/img4.e68b06763bc39f569c92.png",
+    "static/media/img1.png": "/mehvarsalamatapp/static/media/img1.39417561dc241f87492a.png",
+    "static/media/logo.png": "/mehvarsalamatapp/static/media/logo.82851dcb9750938c9a2e.png",
+    "static/media/MORABBAVF.TTF": "/mehvarsalamatapp/static/media/MORABBAVF.70b60a177336b000b0b7.TTF",
+    "static/media/guide.png": "/mehvarsalamatapp/static/media/guide.bdcdc61d982f25ea63ed.png",
+    "static/media/KAGHAZ (2).TTF": "/mehvarsalamatapp/static/media/KAGHAZ (2).526392a85bab47092405.TTF",
+    "static/media/AridiNaskh Black_MRT.ttf": "/mehvarsalamatapp/static/media/AridiNaskh Black_MRT.ec7b047199fb60439f8c.ttf",
+    "static/media/Iranian Sans.ttf": "/mehvarsalamatapp/static/media/Iranian Sans.8c2ed8fb0154947263c5.ttf",
+    "static/media/MORABBA-HEAVY.TTF": "/mehvarsalamatapp/static/media/MORABBA-HEAVY.cdbfa86035de05cb5cea.TTF",
+    "static/media/Ramollah_MRT.ttf": "/mehvarsalamatapp/static/media/Ramollah_MRT.ec69f02f8c161524eae7.ttf",
+    "static/media/eitaa.png": "/mehvarsalamatapp/static/media/eitaa.2de0bb3758573118e3ef.png",
+    "static/media/Mj_Sazeh Bold_0.ttf": "/mehvarsalamatapp/static/media/Mj_Sazeh Bold_0.26b11a7e019c8010abd4.ttf",
+    "index.html": "/mehvarsalamatapp/index.html",
+    "main.06baf927.css.map": "/mehvarsalamatapp/static/css/main.06baf927.css.map",
+    "main.d8a6ce77.js.map": "/mehvarsalamatapp/static/js/main.d8a6ce77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06baf927.css",
+    "static/js/main.d8a6ce77.js"
+  ]
+}
